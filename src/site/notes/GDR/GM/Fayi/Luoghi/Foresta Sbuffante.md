@@ -25,7 +25,7 @@ La Foresta Sbuffante è un territorio che per quasi la sua totale interezza è r
 >Nonostante i pericoli che si nascondono in ogni angolo, la foresta amazzonica è un gioiello della natura che attrae esploratori, scienziati e avventurieri da tutto il mondo. La sua bellezza selvaggia, la sua biodiversità unica e la sua energia primordiale continuano ad affascinare e a ispirare coloro che hanno il coraggio di immergersi nelle sue profondità. Nell'abbraccio di questa foresta, si trova un equilibrio delicato tra la vita e la morte, tra la meraviglia e il pericolo, che incanta e spinge l'umanità a comprendere e preservare l'incanto della natura selvaggia.
 \- Marvolo Viapictor
 
-<div class="nascondi">
+<div class="dg-hide">
 
 <iframe src="https://pin.it/3nBR8RLpD" width="100%"></iframe>
 
