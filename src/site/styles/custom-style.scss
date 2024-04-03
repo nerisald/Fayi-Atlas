@@ -1,8 +1,9 @@
 body {
     /* Page */
     --font-default: "Libre Caslon Text";
-    .content cm-s-obsidian {
-        width: 70%;
+    
+    .content {
+        max-width: 50%;
     }
     
     /* Callouts */
