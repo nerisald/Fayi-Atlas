@@ -5,6 +5,10 @@ body {
     .content {
         max-width: 50%;
     }
+
+    .dg-hide {
+        display: none;
+    }
     
     /* Callouts */
      .callout[data-callout="story-telling"] {
