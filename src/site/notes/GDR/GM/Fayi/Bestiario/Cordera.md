@@ -4,7 +4,9 @@
 
 ## Descrizione:
 > [!infobox]
-> ![[ cordera.jpg\| 250]]  
+> # Cordera
+> ![[ cordera.jpg\| 250]]
+> 
 
 La Cordera è una creatura a metà tra una pianta e un animale. Possiede un fusto legnoso ma molto mobile e flessibile. Abita principalmente le zone paludose della [[GDR/GM/Fayi/Luoghi/Foresta Sbuffante\|Foresta Sbuffante]] e si presenta in varie colorazioni: rosso, bianco e viola. La sua peculiarità sta nelle teste carnivore che possono variare di numero e dimensione. Questa pianta carnivora mangia di tutto, ed è capace di captare le prede attraverso una rete di fini radici sotterranee. Una volta individuata la preda, la Cordera comincia l'inseguimento: solcando il terreno violentemente riesce a muoversi a velocità incredibili. Quando un animale cade tra le sue fauci viene smembrato e ingerito voracemente. Sebbene questa pianta possa sembrare estremamente pericolosa, è in realtà molto vulnerabile in un punto ben preciso: il cordone. La pianta infatti prende il nome dalla sua radice principale, chiamata appunto cordone, che se reciso pone fine alla vita della pianta in pochi istanti. Alcune tribù che abitano la Foresta, sono ben consapevoli dei valori nutrizionali e materiali della pianta, per questo viene cacciata.
 
