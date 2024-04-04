@@ -1,6 +1,7 @@
 body {
     /* Page */
     --font-default: "Libre Caslon Text";
+    @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap')
     
     .content {
         max-width: 50%;
@@ -14,7 +15,7 @@ body {
      .callout[data-callout="story-telling"] {
         --callout-color: 167, 138, 127;
         --callout-icon: lucide-book-open;
-        font-family: "Lucida Handwriting";
+        font-family: "Tangerine";
     }
 
     .callout[data-callout="top-secret"] {
