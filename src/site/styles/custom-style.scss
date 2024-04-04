@@ -1,8 +1,21 @@
 body {
     /* Page */
-    --font-default: "Libre Caslon Text";
     @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
 
+    .tangerine-regular {
+      font-family: "Tangerine", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+    .tangerine-bold {
+      font-family: "Tangerine", cursive;
+      font-weight: 700;
+      font-style: normal;
+    }
+
+    --font-default: "Tangerine";
+    
     #floating-control {
         position: fixed;
         color: var(--link-color);
