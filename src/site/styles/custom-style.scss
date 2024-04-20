@@ -13,6 +13,10 @@ body {
       font-style: normal;
     }
 
+    .toc-container {
+        max-height: fit-content;
+    }
+
     --font-default: "Libre Caslon Text";
     
     #floating-control {
