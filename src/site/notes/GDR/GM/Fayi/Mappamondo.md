@@ -3,6 +3,23 @@
 ---
 
 
+```leaflet
+id: asdge45
+image: [[mappa-fayi.png]]
+height: 700px
+width: 100%
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 10
+defaultZoom: 8.4
+zoomDelta: 0.3
+unit: meters
+scale: 1
+noUI: false
+darkMode: false
+```
+
 >[!marvolo]
 > Rieccoti qui mio caro viandante. Questa che vedi è la raccolta di tutti i luoghi che ho visitato fino a questo momento. Li ho elencati separando insediamenti, Stati e regioni naturali. 
 > 
