@@ -47,6 +47,7 @@ L'altra cosa strabiliante di questo film sono le colonne sonore del compositore 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6NkuCdMz5tGmHbOXAWbtCW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
 # Raccomandazioni: 
 
 Non posso che considerare questo film come una vera e propria opera d'arte. Decisamente un film da vedere almeno una volta nella vita e sono contento di averlo fatto in questo momento. Sensazionale. 
