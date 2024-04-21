@@ -9,8 +9,8 @@
 
 |                                                      |                                                         |
 |:---------------------------------------------------- |:------------------------------------------------------- |
-| Territorio: boschivo, paludoso| Elementi comuni: ☠️🌑❄️|
-| Tiro viaggio: d6, d8, d10, d12 | Elementi rari: 🌕   |
+| Territorio: boschivo, paludoso| Elementi comuni: ☠️ 🌑 ❄️ |
+| Tiro viaggio: d6, d8, d10, d12 | Elementi rari: 🌕    |
 | Pericoli:                                            | Scoperte:                                               |
 
 ## Descrizione:
