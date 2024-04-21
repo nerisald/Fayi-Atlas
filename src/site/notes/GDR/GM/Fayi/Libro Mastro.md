@@ -6,7 +6,7 @@
 >[!marvolo]
 > Salve avventuriero! 
 > 
-> Vedo che hai trovato il mio *Libro Mastro*. Qui ho riportato ed annotato tutte le informazioni che sono riuscito a reperire riguardo le organizzazioni, le società, le religioni e le attività che ho incontrato durante i miei viaggi. 
+> Vedo che hai trovato il mio *Libro Mastro*! Qui ho riportato ed annotato tutte le informazioni che sono riuscito a reperire riguardo le organizzazioni, le società, le religioni e le attività che ho incontrato durante i miei viaggi. 
 > Sentiti pure libero di consultare queste pagine per tutto il tempo che vorrai. 
 >
 >Spero ti sia utile,
@@ -25,6 +25,7 @@ color default
 </div>
 
 # Elenco:
+
 | File                                                                                                | Tipo           | Fazione                                                                                   | Descrizione                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[GDR/GM/Fayi/Altro/Compagnia delle Lettere Scompigliate\|Compagnia delle Lettere Scompigliate]] | organizzazione | globale eccetto [[GDR/GM/Fayi/Luoghi/Exilia\|Exilia]]                                                                | Un servizio postale che mette in comunicazione ogni parte del pianeta e consente lo scambio di lettere e pacchi                                                                                   |
