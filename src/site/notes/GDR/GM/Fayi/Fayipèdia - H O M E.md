@@ -14,7 +14,7 @@
 >
 >l mio lungo viaggio con Fayi è cominciato intorno al mese di novembre del 2022 e da allora è in continua evoluzione. Tutto ciò che troverete qui è soggetto a cambiamenti, miglioramenti e nuove scoperte. Il mio obiettivo è quello di creare un mondo fantastico, ricco di varietà, culture, lingue ed usanze che possiede alla base un desiderio di pace e di prosperità. Potremmo affermare che Fayi sia a tutti gli effetti il mio mondo ideale con un pizzico di fantasia.
 >
->Detto questo credo che sia giunto il momento di lasciarti libero di esplorare l'ambientazione, ma attenzione Fayi è un mondo vasto ed avventurarsi da soli può essere pericoloso. È per questa ragione che da ora in poi a farti guida ci sarà il mio caro amico ed esploratore: [[Marvolo Viapictor\|Marvolo Viapictor]]. 
+>Detto questo credo che sia giunto il momento di lasciarti libero di esplorare l'ambientazione, ma attenzione Fayi è un mondo vasto ed avventurarsi da soli può essere pericoloso. È per questa ragione che da ora in poi a farti guida ci sarà il mio caro amico ed esploratore [[Marvolo Viapictor\|Marvolo Viapictor]]. 
 >
 >Forse a momenti è un po' logorroico, ma 
 >
@@ -22,4 +22,23 @@
 >
 >\-Neri
 
-Cose da aggiungere
+1. **Introduzione**: Una breve descrizione della tua ambientazione fantasy. Questo dovrebbe dare ai lettori un'idea generale di cosa tratta la tua ambientazione.
+
+2. **Personaggi**: Elenco dei personaggi principali con collegamenti alle loro pagine dettagliate. Potresti suddividerli in categorie come protagonisti, antagonisti, personaggi secondari, ecc.
+
+3. **Luoghi**: Elenco dei luoghi principali nella tua ambientazione. Ogni luogo dovrebbe avere un collegamento alla sua pagina dettagliata.
+
+4. **Eventi**: Cronologia degli eventi importanti. Questo potrebbe includere battaglie, scoperte, eventi storici, ecc.
+
+5. **Razze / Specie**: Se la tua ambientazione include diverse razze o specie, potresti voler includere una sezione per queste.
+
+6. **Mitologia e Leggende**: Se la tua ambientazione ha una ricca mitologia o leggende, questa potrebbe essere una sezione interessante da includere.
+
+7. **Ultime notizie / Aggiornamenti**: Una sezione per aggiornamenti recenti o notizie relative alla tua ambientazione.
+
+8. **Galleria**: Una sezione visiva dove puoi mostrare le immagini dei personaggi, luoghi, oggetti magici, ecc.
+
+9. **Link utili / Risorse**: Collegamenti a pagine correlate, come forum di discussione, FAQ, guide per i nuovi utenti, ecc.
+
+Ricorda, la chiave è rendere la tua pagina principale accattivante e informativa, ma non troppo affollata. Vuoi che i visitatori siano in grado di trovare facilmente le informazioni che stanno cercando. Buona fortuna con la creazione della tua ambientazione fantasy su Fandom! 😊
+
