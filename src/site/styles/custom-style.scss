@@ -343,6 +343,9 @@ body {
       object-position: 50% 90%;
     }
 
+    img[alt*="banner"], .image-embed[src*="#banner"] img {
+        width: 100%;
+    }
         /* reading mode */
     .markdown-preview-view .cm-line, p{
     	text-align: justify;
