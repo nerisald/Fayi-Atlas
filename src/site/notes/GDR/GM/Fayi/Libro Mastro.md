@@ -44,6 +44,7 @@ color default
 { .block-language-dataview}
 
 # Elenco dei negozi:
+
 | File                                                                                           | Locazione                                          | Descrizione                                                                                                             |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [[GDR/GM/Fayi/Luoghi/Bazar le cianfrusaglie\|Bazar le cianfrusaglie]]                       | [[GDR/GM/Fayi/Luoghi/Stelio\|Stelio]]           |  Un negozio che vende e compra oggetti bizzari di ogni genere e tipo                                                    |
