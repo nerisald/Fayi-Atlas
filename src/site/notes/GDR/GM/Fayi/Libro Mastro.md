@@ -12,17 +12,7 @@
 >Spero ti sia utile,
 \- Marvolo Viapictor
 
-<div class="nascondi">
 
-```button
-name Crea Organizzazione o Religione
-type command
-action QuickAdd: Crea In Fayi
-color default
-```{ #button-5bjj}
-
-
-</div>
 
 # Elenco:
 
