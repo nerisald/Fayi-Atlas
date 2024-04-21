@@ -3,7 +3,7 @@
 ---
 
 
-![banner_fayipedia.jpg](/img/user/Allegati/Banner/banner_fayipedia.jpg)
+![banner_fayipedia.jpg|banner](/img/user/Allegati/Banner/banner_fayipedia.jpg)
 
 # Benvenuti nell'Enciclopedia di Fayi! 
 
@@ -21,3 +21,5 @@
 >*Jahmei' ko ja-koli!*
 >
 >\-Neri
+
+Cose da aggiungere
