@@ -52,6 +52,7 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 Elementi:
 
 :Elementi_aria:
+
 	-  Fisico:Elementi_fisico:
 	- Fulmine :Elementi_fulmine:
 	- Fuoco :Elementi_fuoco:
