@@ -47,15 +47,15 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 >Piccola nota a piè di pagina. In questa enciclopedia troverai alcuni simboli, diciture e statistiche che potrebbero sembrare fuori luogo. Questi simboli in questione fanno riferimento al GDR che abbiamo utilizzato per vivere le avventure all'interno dell'ambientazione: [Fabula Ultima](https://www.needgames.it/giochi/fabula-ultima/). Se sei interessato al gioco di ruolo (GDR), ti consiglio altamente di dargli un'occhiata. Non ti pentirai!
 >
 >Qui di sotto ti lascio una legenda che spero di sia utile:
->
-> Elementi:
->	- Aria: :Elementi_aria:
->	-  Fisico:Elementi_fisico:
->	- Fulmine :Elementi_fulmine:
->	- Fuoco :Elementi_fuoco:
->	- Ghiaccio :Elementi_ghiaccio:
->	- Luce :Elementi_luce:
->	- Ombra :Elementi_ombra:
->	- Roccia :Elementi_roccia:
->	- Veleno :Elementi_veleno:
-> 
+
+
+Elementi:
+	- Aria: :Elementi_aria:
+	-  Fisico:Elementi_fisico:
+	- Fulmine :Elementi_fulmine:
+	- Fuoco :Elementi_fuoco:
+	- Ghiaccio :Elementi_ghiaccio:
+	- Luce :Elementi_luce:
+	- Ombra :Elementi_ombra:
+	- Roccia :Elementi_roccia:
+	- Veleno :Elementi_veleno:
