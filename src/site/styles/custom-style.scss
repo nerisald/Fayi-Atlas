@@ -344,7 +344,10 @@ body {
     }
 
     img[alt*="banner"], .image-embed[src*="#banner"] img {
+        oobject-fit: cover;
+        object-position: top;
         width: 100%;
+        max-height: 225px;
     }
         /* reading mode */
     .markdown-preview-view .cm-line, p{
