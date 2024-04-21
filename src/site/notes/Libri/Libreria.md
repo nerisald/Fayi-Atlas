@@ -3,12 +3,6 @@
 ---
 
 
-```button
-name Aggiungi Libro
-type command
-action Book Search: Create new book note
-color default
-```{ #button-g327}
 
 
 # Libri letti
