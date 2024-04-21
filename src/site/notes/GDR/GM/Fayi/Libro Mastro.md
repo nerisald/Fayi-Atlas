@@ -13,7 +13,6 @@
 \- Marvolo Viapictor
 
 
-
 # Elenco:
 
 | File                                                                                                | Tipo           | Fazione                                                                                   | Descrizione                                                                                                                                                                                       |
