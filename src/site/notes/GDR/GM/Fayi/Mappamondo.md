@@ -10,7 +10,7 @@
 >
 \- Marvolo Viapictor
 
-# Elenco degli insediamenti:
+# Lista insediamenti:
 | File                                                                 | Locazione                                                              | Descrizione                                                                                                                                                          | Tiro di Viaggio |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[GDR/GM/Fayi/Luoghi/Avamposto di Leigh\|Avamposto di Leigh]]     | [[GDR/GM/Fayi/Luoghi/Regno di Atro\|Regno di Atro]]                 | Un'avamposto costruito sulla via di accesso alle Terre di Leigh                                                                                                      | d8              |
