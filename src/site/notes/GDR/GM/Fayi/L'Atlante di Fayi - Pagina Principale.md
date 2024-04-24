@@ -70,6 +70,7 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 >
 >Qui di sotto ti lascio una legenda che spero di sia utile:
 >Elementi:
+><div class="two-columns">
 >	- Aria: 🪽
 >	-  Fisico⚙️ 
 >	- Fulmine ⚡ 
@@ -79,5 +80,6 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 >	- Ombra 🌑 
 >	- Roccia 🪨 
 >	- Veleno ☠️ 
+></div>
 
 
