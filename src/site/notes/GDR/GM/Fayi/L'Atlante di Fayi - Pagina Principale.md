@@ -24,8 +24,6 @@
 >
 >\-Neri
 
-1. **Introduzione**: Una breve descrizione della tua ambientazione fantasy. Questo dovrebbe dare ai lettori un'idea generale di cosa tratta la tua ambientazione.
-
 2. **Personaggi**: Elenco dei personaggi principali con collegamenti alle loro pagine dettagliate. Potresti suddividerli in categorie come protagonisti, antagonisti, personaggi secondari, ecc.
 
 3. **Luoghi**: Elenco dei luoghi principali nella tua ambientazione. Ogni luogo dovrebbe avere un collegamento alla sua pagina dettagliata.
@@ -53,6 +51,11 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 - [[Eventi\|Eventi]]
 - [[GDR/GM/Fayi/Altro/Timeline\|Timeline]]
 
+# Luoghi
+
+- [[GDR/GM/Fayi/Mappamondo#Lista insediamenti\| Lista Insediamenti]]
+- 
+
 # Persone
 
 - [[Etnie\|Etnie]]
@@ -60,7 +63,12 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 - [[Lista delle Culture\|Lista delle Culture]]
 - [[Lista delle Organizzazioni\|Lista delle Organizzazioni]]
 - [[Personaggi\|Personaggi]]
-- 
+
+# Storie ed Avventure
+
+- Un cimitero per le promesse
+	- [[GDR/GM/Un cimitero per le promesse/Un cimitero per le promesse - Atto I/Atto I\|Atto I]]
+	- [[GDR/GM/Un cimitero per le promesse/Un cimitero per i desideri - Atto II/Atto II\|Atto II]]
 
 </div>
 
@@ -72,14 +80,14 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 >Elementi:
 ><div class="two-columns">
 >	- Aria: 🪽
->	-  Fisico⚙️ 
->	- Fulmine ⚡ 
->	- Fuoco 🔥 
->	- Ghiaccio ❄️ 
->	- Luce 🌕 
->	- Ombra 🌑 
->	- Roccia 🪨 
->	- Veleno ☠️ 
+>	-  Fisico: ⚙️ 
+>	- Fulmine: ⚡ 
+>	- Fuoco: 🔥 
+>	- Ghiaccio: ❄️ 
+>	- Luce: 🌕 
+>	- Ombra: 🌑 
+>	- Roccia: 🪨 
+>	- Veleno: ☠️ 
 ></div>
 
 
