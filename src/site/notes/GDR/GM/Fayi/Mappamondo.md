@@ -8,7 +8,7 @@
 > 
 > Spero che leggendo queste pagine tu possa vivere anche solo un centesimo delle avventure che vissi io quando visitai quei luoghi. Buon viaggio!
 >
-\- Marvolo Viapictor
+>\- Marvolo Viapictor
 
 # Lista insediamenti:
 | File                                                                 | Locazione                                                              | Descrizione                                                                                                                                                          | Tiro di Viaggio |
