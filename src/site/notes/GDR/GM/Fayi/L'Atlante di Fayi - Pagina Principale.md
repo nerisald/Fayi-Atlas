@@ -5,7 +5,7 @@
 
 ![banner_atlante_fayi.jpg|banner](/img/user/Allegati/Banner/banner_atlante_fayi.jpg)
 
-# Benvenuti nell'Enciclopedia di Fayi! 
+# Benvenuti nell'Atlante! 🗿
 
 >[!quote]
 >Il mio nome è Neri e ti do il benvenuto su questa enciclopedia che ho scritto per condividere pubblicamente il mio lavoro fatto riguardo al mondo di Fayi. Questa ambientazione non fa altro che da sfondo a tutte le storie che voglio raccontare. Frutto della mia fantasia, Fayi vuole in qualche modo (seppur in maniera ridotta) replicare il grande lavoro che altri grandi autori come [J. R. R. Tolkien](https://it.wikipedia.org/wiki/J._R._R._Tolkien), [George R. R. Martin](https://it.wikipedia.org/wiki/George_R._R._Martin) e [Frank Herbert](https://it.wikipedia.org/wiki/Frank_Herbert) hanno fatto prima di me. 
@@ -58,4 +58,3 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 >	- Ombra 🌑 
 >	- Roccia 🪨 
 >	- Veleno ☠️ 
->
