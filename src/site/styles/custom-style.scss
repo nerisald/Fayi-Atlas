@@ -72,6 +72,10 @@ body {
     .dg-hide {
         display: none;
     }
+
+    .two-columns {
+        columns: 2;
+    }    
     
     /* Callouts */
      .callout[data-callout="story-telling"] {
