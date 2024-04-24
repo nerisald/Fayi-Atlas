@@ -7,7 +7,7 @@
 
 # Benvenuti nell'Atlante! 🗿
 
-<div class="two-columns">
+
 
 >[!quote]
 >Il mio nome è Neri e ti do il benvenuto su questa enciclopedia che ho scritto per condividere pubblicamente il mio lavoro fatto riguardo al mondo di Fayi. Questa ambientazione non fa altro che da sfondo a tutte le storie che voglio raccontare. Frutto della mia fantasia, Fayi vuole in qualche modo (seppur in maniera ridotta) replicare il grande lavoro che altri grandi autori come [J. R. R. Tolkien](https://it.wikipedia.org/wiki/J._R._R._Tolkien), [George R. R. Martin](https://it.wikipedia.org/wiki/George_R._R._Martin) e [Frank Herbert](https://it.wikipedia.org/wiki/Frank_Herbert) hanno fatto prima di me. 
@@ -44,6 +44,25 @@
 
 Ricorda, la chiave è rendere la tua pagina principale accattivante e informativa, ma non troppo affollata. Vuoi che i visitatori siano in grado di trovare facilmente le informazioni che stanno cercando. Buona fortuna con la creazione della tua ambientazione fantasy su Fandom! 😊
 
+<div class="two-columns">
+
+# Storia del mondo
+
+- [[Leggende\|Leggende]]
+- [[Storia Conosciuta\|Storia Conosciuta]]
+- [[Eventi\|Eventi]]
+- [[GDR/GM/Fayi/Altro/Timeline\|Timeline]]
+
+# Persone
+
+- [[Etnie\|Etnie]]
+- [[Lista delle Religioni\|Lista delle Religioni]]
+- [[Lista delle Culture\|Lista delle Culture]]
+- [[Lista delle Organizzazioni\|Lista delle Organizzazioni]]
+- [[Personaggi\|Personaggi]]
+- 
+
+</div>
 
 >[!Quote]
 >Rieccomi qui.
@@ -62,4 +81,3 @@ Ricorda, la chiave è rendere la tua pagina principale accattivante e informativ
 >	- Veleno ☠️ 
 
 
-</div>
