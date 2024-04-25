@@ -4,7 +4,7 @@
 
 
 
-![kai_seong.png|150](/img/user/Allegati/kai_seong.png)  Kai è un personaggio... [TODO]
+![kai_seong.png|left|150](/img/user/Allegati/kai_seong.png)  Kai è un personaggio... [TODO]
 
 
 ---
