@@ -3,12 +3,13 @@
 ---
 
 
-![[kai_seong.png \| 150]]  Kai è un personaggio... [TODO]
+
+![kai_seong.png| 150](/img/user/Allegati/kai_seong.png)  Kai è un personaggio... [TODO]
 
 
 ---
 
-# Backgorund
+# Backgorund:
 
 _«Chi sono io?»_
 
