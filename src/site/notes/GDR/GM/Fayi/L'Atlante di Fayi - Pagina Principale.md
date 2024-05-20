@@ -10,7 +10,7 @@
 
 
 >[!quote]
->Il mio nome è Neri e ti do il benvenuto su questa enciclopedia che ho scritto per condividere pubblicamente il mio lavoro fatto riguardo al mondo di Fayi. Questa ambientazione non fa altro che da sfondo a tutte le storie che voglio raccontare. Frutto della mia fantasia, Fayi vuole in qualche modo (seppur in maniera ridotta) replicare il grande lavoro che altri grandi autori come [J. R. R. Tolkien](https://it.wikipedia.org/wiki/J._R._R._Tolkien), [George R. R. Martin](https://it.wikipedia.org/wiki/George_R._R._Martin) e [Frank Herbert](https://it.wikipedia.org/wiki/Frank_Herbert) hanno fatto prima di me. 
+>Ti do il benvenuto su questa enciclopedia che ho scritto per condividere pubblicamente il mio lavoro fatto riguardo al mondo di Fayi. Questa ambientazione non fa altro che da sfondo a tutte le storie che voglio raccontare. Frutto della mia fantasia, Fayi vuole in qualche modo (seppur in maniera ridotta) replicare il grande lavoro che altri grandi autori come [J. R. R. Tolkien](https://it.wikipedia.org/wiki/J._R._R._Tolkien), [George R. R. Martin](https://it.wikipedia.org/wiki/George_R._R._Martin) e [Frank Herbert](https://it.wikipedia.org/wiki/Frank_Herbert) hanno fatto prima di me. 
 >
 >Ad essere completamente onesti, quando ho cominciato questo progetto, non mi aspettavo affatto che sarebbe diventato qualcosa di tanto grande e ambizioso, ma dal momento che l'immaginazione comincia a vagare è difficile fermarla. Credo fermamente che le idee, quando concretizzate, comincino a vivere di vita propria.
 >
@@ -18,29 +18,11 @@
 >
 >Detto questo credo che sia giunto il momento di lasciarti libero di esplorare l'ambientazione, ma attenzione Fayi è un mondo vasto ed avventurarsi da soli può essere pericoloso. È per questa ragione che da ora in poi a farti guida ci sarà il mio caro amico ed esploratore [[Marvolo Viapictor\|Marvolo Viapictor]]. 
 >
->Forse a momenti è un po' logorroico, ma 
+>Forse a momenti è un po' logorroico, ma TUA
 >
 >*Jahmei' ko ja-koli!*
 >
->\-Neri
 
-2. **Personaggi**: Elenco dei personaggi principali con collegamenti alle loro pagine dettagliate. Potresti suddividerli in categorie come protagonisti, antagonisti, personaggi secondari, ecc.
-
-3. **Luoghi**: Elenco dei luoghi principali nella tua ambientazione. Ogni luogo dovrebbe avere un collegamento alla sua pagina dettagliata.
-
-4. **Eventi**: Cronologia degli eventi importanti. Questo potrebbe includere battaglie, scoperte, eventi storici, ecc.
-
-5. **Razze / Specie**: Se la tua ambientazione include diverse razze o specie, potresti voler includere una sezione per queste.
-
-6. **Mitologia e Leggende**: Se la tua ambientazione ha una ricca mitologia o leggende, questa potrebbe essere una sezione interessante da includere.
-
-7. **Ultime notizie / Aggiornamenti**: Una sezione per aggiornamenti recenti o notizie relative alla tua ambientazione.
-
-8. **Galleria**: Una sezione visiva dove puoi mostrare le immagini dei personaggi, luoghi, oggetti magici, ecc.
-
-9. **Link utili / Risorse**: Collegamenti a pagine correlate, come forum di discussione, FAQ, guide per i nuovi utenti, ecc.
-
-Ricorda, la chiave è rendere la tua pagina principale accattivante e informativa, ma non troppo affollata. Vuoi che i visitatori siano in grado di trovare facilmente le informazioni che stanno cercando. Buona fortuna con la creazione della tua ambientazione fantasy su Fandom! 😊
 
 <div class="two-columns">
 
