@@ -51,9 +51,9 @@
 
 # Storie ed Avventure
 
-- Un cimitero per le promesse
-	- [[GDR/GameMaster - Fayi/Un cimitero per le promesse/Un cimitero per le promesse - Atto I/Atto I\|Atto I]]
-	- [[GDR/GameMaster - Fayi/Un cimitero per le promesse/Un cimitero per le promesse - Atto II/Atto II\|Atto II]]
+## Un cimitero per le promesse:
+- [[GDR/GameMaster - Fayi/Un cimitero per le promesse/Un cimitero per le promesse - Atto I/Atto I\|Atto I]]
+- [[GDR/GameMaster - Fayi/Un cimitero per le promesse/Un cimitero per le promesse - Atto II/Atto II\|Atto II]]
 
  ## Echi di un'era perduta
 - [[Il silenzio della valle\|Il silenzio della valle]]
@@ -78,6 +78,5 @@
 >	- Veleno: ☠️ 
 ></div>
 
----
 
 [^1]: Frase in [[GDR/GameMaster - Fayi/Ambientazione/Altro/Sori\|Sori]], utilizzata frequentemente per salutare qualcuno che sta partendo, dirigendosi verso luoghi lontani. È traducibile come "Che le due lune illuminino la tua via".
