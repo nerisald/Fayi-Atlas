@@ -10,17 +10,20 @@
 
 
 >[!quote]
->Ti do il benvenuto su questa enciclopedia che ho scritto per condividere pubblicamente il mio lavoro fatto riguardo al mondo di Fayi. Questa ambientazione non fa altro che da sfondo a tutte le storie che voglio raccontare. Frutto della mia fantasia, Fayi vuole in qualche modo (seppur in maniera ridotta) replicare il grande lavoro che altri grandi autori come [J. R. R. Tolkien](https://it.wikipedia.org/wiki/J._R._R._Tolkien), [George R. R. Martin](https://it.wikipedia.org/wiki/George_R._R._Martin) e [Frank Herbert](https://it.wikipedia.org/wiki/Frank_Herbert) hanno fatto prima di me. 
+>Ti do il benvenuto su questa enciclopedia che ho scritto per condividere pubblicamente il mio lavoro fatto riguardo al mondo di Fayi. Frutto della mia fantasia, Fayi vuole in qualche modo (seppur in maniera ridotta) replicare l'immenso lavoro che altri grandi autori come [J. R. R. Tolkien](https://it.wikipedia.org/wiki/J._R._R._Tolkien), [George R. R. Martin](https://it.wikipedia.org/wiki/George_R._R._Martin), [Frank Herbert](https://it.wikipedia.org/wiki/Frank_Herbert) e [Ursula K. Le Guin](https://it.wikipedia.org/wiki/Ursula_K._Le_Guin) hanno fatto prima di me.
 >
 >Ad essere completamente onesti, quando ho cominciato questo progetto, non mi aspettavo affatto che sarebbe diventato qualcosa di tanto grande e ambizioso, ma dal momento che l'immaginazione comincia a vagare è difficile fermarla. Credo fermamente che le idee, quando concretizzate, comincino a vivere di vita propria.
 >
->l mio lungo viaggio con Fayi è cominciato intorno al mese di novembre del 2022 e da allora è in continua evoluzione. Tutto ciò che troverete qui è soggetto a cambiamenti, miglioramenti e nuove scoperte. Il mio obiettivo è quello di creare un mondo fantastico, ricco di varietà, culture, lingue ed usanze che possiede alla base un desiderio di pace e di prosperità. Potremmo affermare che Fayi sia a tutti gli effetti il mio mondo ideale con un pizzico di fantasia.
+>l mio lungo viaggio con Fayi è cominciato intorno al mese di novembre del 2022 e da allora è in continua evoluzione. Tutto ciò che troverete qui è soggetto a cambiamenti, miglioramenti e nuove scoperte. Il mio obiettivo è quello di creare un mondo fantastico, ricco di varietà, culture, lingue ed usanze che possiede alla base un desiderio di pace e di prosperità. Potremmo affermare che Fayi sia a tutti gli effetti il mio mondo ideale con un pizzico (o più) di fantasia.
 >
->Detto questo credo che sia giunto il momento di lasciarti libero di esplorare l'ambientazione, ma attenzione Fayi è un mondo vasto ed avventurarsi da soli può essere pericoloso. È per questa ragione che da ora in poi a farti guida ci sarà il mio caro amico ed esploratore [[Marvolo Viapictor\|Marvolo Viapictor]]. 
+>Fayi è un mondo vasto che vive di storie, grandi o piccole che siano. Alcune di esse sono raccolte fra le grandi leggende che i nonni raccontano ai nipoti davanti al caminetto come storia della buonanotte, altre invece sono impressi nella memoria della popolazione locale; alcune sono state ormai da tempo dimenticate, mentre altre ancora attendono solamente di essere raccontante. 
+>Ma dopotutto è questo il bello di un luogo così variegato: c'è sempre qualche novità da scoprire.
 >
->Forse a momenti è un po' logorroico, ma TUA
+>Detto questo credo che sia giunto il momento di lasciarti libero di esplorare l'ambientazione, ma attenzione Fayi è un mondo vasto ed avventurarsi da soli può essere pericoloso. Per questa ragione ho deciso di affidare a [[Marvolo Viapictor\|Marvolo Viapictor]] il compito di accompagnarti e di farti da guida. Marvolo è un grande e capace esploratore, ma prima di tutto ciò è un mio carissimo amico. A volte è un po' logorroico, ma una volta che ci avrai fatto l'abitudine sono sicuro che non potrai più fare a meno dei suoi aneddoti e consigli. 
 >
->*Jahmei' ko ja-koli!*
+>
+>*Jahmei' kö ja-kōli!*  [^1]
+>
 >
 
 
@@ -52,6 +55,9 @@
 	- [[GDR/GameMaster - Fayi/Un cimitero per le promesse/Un cimitero per le promesse - Atto I/Atto I\|Atto I]]
 	- [[GDR/GameMaster - Fayi/Un cimitero per le promesse/Un cimitero per le promesse - Atto II/Atto II\|Atto II]]
 
+ ## Echi di un'era perduta
+- [[Il silenzio della valle\|Il silenzio della valle]]
+
 </div>
 
 >[!Quote]
@@ -72,4 +78,6 @@
 >	- Veleno: ☠️ 
 ></div>
 
+---
 
+[^1]: Frase in [[GDR/GameMaster - Fayi/Ambientazione/Altro/Sori\|Sori]], utilizzata frequentemente per salutare qualcuno che sta partendo, dirigendosi verso luoghi lontani. È traducibile come "Che le due lune illuminino la tua via".
