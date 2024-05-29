@@ -15,7 +15,7 @@
 >| Popolazione | |
 >| Cultura Dominante | |
 >| Religione Dominante||
->| Bandiera | ![eleria_bandiera.png](/img/user/Allegati/eleria_bandiera.png) |
+>| Bandiera | ![[eleria_bandiera.png \|eleria_bandiera.png ]] |
 
 
 |                                                      |                                                         |
