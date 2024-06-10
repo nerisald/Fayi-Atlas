@@ -17,7 +17,6 @@
 >| Religione Dominante||
 >| Bandiera | ![eleria_bandiera.png](/img/user/Allegati/eleria_bandiera.png) |
 
-
 |                                                      |                                                         |
 |:---------------------------------------------------- |:------------------------------------------------------- |
 | Territorio: picchi, valle, freddo, villaggi, boschi, città| Elementi comuni: ❄️ 🪨 |
